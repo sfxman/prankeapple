@@ -1,0 +1,1 @@
+This project lets you use an Arduino to connect a PS/2 mouse to your Apple IIgs. It might also work with Macintosh computers with ADB support, but it is not tested.
